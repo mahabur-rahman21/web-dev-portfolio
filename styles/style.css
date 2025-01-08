@@ -1,0 +1,50 @@
+.open-sans-normal {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .color-primary{
+    color: #FD6E0A;
+  }
+  .dark-2{
+    color: #474747;
+  }
+
+  .btn-primary{
+    color: white;
+    background-color: #FD6E0A;
+    padding: 18px 35px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+  }
+
+  nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 200px;
+  }
+
+  nav ul li{
+    list-style: none;
+  }
+  nav li a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 50px;
+  }
+  nav ul{
+    display: flex;
+    align-items: center;
+    
+  }
+
+  .nav-title{
+    font-size: 45px;
+    font-weight: 800;
+  }
