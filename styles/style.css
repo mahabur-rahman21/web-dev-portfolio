@@ -194,3 +194,38 @@ main section{
   font-size: 16px;
   color: #757575;
 }
+
+/* footer */
+.footer{
+  padding: 60px 130px;
+}
+.col-contenter{
+  display: flex;
+  gap: 100px;
+}
+.footer-title{
+  font-size: 35px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.footer-des{
+  font-size: 16px;
+
+}
+.soical-contenter > a{
+
+  margin-right: 10px;
+
+}
+.input-form{
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 30px;
+  border: none;
+  border-radius: 5px;
+}
+
+.footer-col{
+  width: 50%;
+}
